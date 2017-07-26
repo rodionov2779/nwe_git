@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo 'hello!';
+            echo 'hello new!';
         ?>
     </body>
 </html>
