@@ -12,11 +12,6 @@ and open the template in the editor.
     <body>
         <?php
             echo 'hello!';
-<<<<<<< HEAD
-            echo 'hello new!';
-=======
-            echo 'hello!master';
->>>>>>> master
         ?>
     </body>
 </html>
