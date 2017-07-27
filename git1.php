@@ -14,6 +14,7 @@ and open the template in the editor.
             echo 'hello!';
             echo 'hello new!';
             echo 'hello!master';
+             echo 'hello!mas';
         ?>
     </body>
 </html>
